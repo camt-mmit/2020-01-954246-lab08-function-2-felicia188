@@ -1,0 +1,6 @@
+5
+Alex 10.5
+Bob 15.3
+Cindy 16.7
+Erik 9.5
+Frank 12.0
